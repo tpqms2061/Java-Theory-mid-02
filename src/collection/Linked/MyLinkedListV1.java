@@ -3,8 +3,6 @@ package collection.Linked;
 public class MyLinkedListV1 {
 
     private Node first;
-
-
     private int size = 0;
 
 
