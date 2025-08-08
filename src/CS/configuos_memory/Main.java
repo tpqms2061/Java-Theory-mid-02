@@ -1,4 +1,4 @@
-package configuos_memory;
+package CS.configuos_memory;
 
 import java.util.ArrayList;
 import java.util.Arrays;
