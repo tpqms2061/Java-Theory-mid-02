@@ -1,4 +1,4 @@
-package configuos_memory;
+package CS.configuos_memory;
 
 public class MemoryBlock {
     int size;
